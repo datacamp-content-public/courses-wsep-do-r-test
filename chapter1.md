@@ -59,5 +59,5 @@ iloczyn <- liczba * 2
 
 `@sct`
 ```{r}
-ex() %>% check_object("iloczyn") %>% check_equal(correct_msg("sukces!!!"))
+ex() %>% check_object("iloczyn") %>% check_equal()
 ```
