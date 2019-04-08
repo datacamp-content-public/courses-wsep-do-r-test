@@ -58,5 +58,5 @@ iloczyn <- liczba * 2
 
 `@sct`
 ```{r}
-is_true(iloczyn == 2) "sukces"
+is_true(iloczyn == 2)
 ```
