@@ -17,7 +17,7 @@ skills: 1
 R to język programowania, ale jednocześnie 
 
 `@instructions`
-fghdfghdfghfg
+Wykonaj polecenie, które widzisz w oknie obok.
 
 `@hint`
 
