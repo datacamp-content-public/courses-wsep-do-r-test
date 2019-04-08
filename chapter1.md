@@ -30,19 +30,33 @@ liczba <- 1
 #zmienna tekstowa
 tekst <- "abcs"
 
+# pomnóż dwie zmienną liczba przez 2 i zapisz do zmiennej iloczyn
 ```
 
 `@sample_code`
 ```{r}
-dfghdfg
+# zmienna liczbowa 
+liczba <- 1
+
+#zmienna tekstowa
+tekst <- "abcs"
+
+
 ```
 
 `@solution`
 ```{r}
-dfghdfghdfgh
+# zmienna liczbowa 
+liczba <- 1
+
+#zmienna tekstowa
+tekst <- "abcs"
+
+# pomnóż dwie zmienną liczba przez 2 i zapisz do zmiennej iloczyn
+iloczyn <- liczba * 2
 ```
 
 `@sct`
 ```{r}
-hdfgdhjkyuk
+is_true(iloczyn == 2)
 ```
