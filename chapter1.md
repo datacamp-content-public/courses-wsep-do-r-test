@@ -14,7 +14,7 @@ xp: 100
 skills: 1
 ```
 
-R to język programowania, ale jednocześnie 
+R to język programowania, ale jednocześnie
 
 `@instructions`
 Wykonaj polecenie, które widzisz w oknie obok.
