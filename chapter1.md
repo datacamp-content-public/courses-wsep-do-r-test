@@ -16,27 +16,27 @@ skills: 1
 This is an example exercise.
 
 `@instructions`
-
+fghdfghdfghfg
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{r}
-
+dfghdfghdfg
 ```
 
 `@sample_code`
 ```{r}
-
+dfghdfg
 ```
 
 `@solution`
 ```{r}
-
+dfghdfghdfgh
 ```
 
 `@sct`
 ```{r}
-
+hdfgdhjkyuk
 ```
