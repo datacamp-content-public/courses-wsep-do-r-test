@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Wprowadzenie do pakietu R'
+description: ""
 free_preview: true
 ---
 
@@ -14,7 +14,7 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+R to język programowania, ale jednocześnie 
 
 `@instructions`
 fghdfghdfghfg
@@ -24,7 +24,12 @@ fghdfghdfghfg
 
 `@pre_exercise_code`
 ```{r}
-dfghdfghdfg
+# zmienna liczbowa 
+liczba <- 1
+
+#zmienna tekstowa
+tekst <- "abcs"
+
 ```
 
 `@sample_code`
