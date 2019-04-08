@@ -41,6 +41,7 @@ liczba <- 1
 #zmienna tekstowa
 tekst <- "abcs"
 
+# pomnóż dwie zmienną liczba przez 2 i zapisz do zmiennej iloczyn
 
 ```
 
